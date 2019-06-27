@@ -1,0 +1,29 @@
+{
+	"itemNumber": 550640646,
+	"clusters": [{
+			"clusterId": "f50fd3f3-c68d-4752-91fe-22cbb2a8fd49",
+			"modeRetail": 3.48,
+			"storeRetails": [{
+					"stores": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14],
+					"retail": 3.48
+				},
+				{
+					"stores": [100, 101, 102, 103, 104, 105, 106],
+					"retail": 3.15
+				},
+				{
+					"stores": [28, 24, 25, 26, 29],
+					"retail": 3.90
+				}
+			]
+		},
+		{
+			"clusterId": "001eab45-3ab2-4f8f-ad8b-1af63c6b7e79",
+			"modeRetail": 4.1,
+			"storeRetails": [{
+				"stores": [201, 202, 203, 204, 205],
+				"retail": 4.1
+			}]
+		}
+	]
+}

@@ -1,0 +1,22 @@
+.price-points-detail-accordian {
+    mat-expansion-panel-header {
+        background-color: #eee;
+    }
+    .blue-price-text {
+        flex-grow: 0;
+        color: blue
+    }
+    .price-point-list-table {
+        width: 100%;
+        td {
+            width: 100%;
+            padding-left: 8px;
+        }
+        .td-link {
+            text-decoration: none;
+        }
+        tr.mat-header-row {
+            height: 0px;
+        }
+    }
+}
